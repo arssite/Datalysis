@@ -1,2 +1,3 @@
 # Machinearning
-combintion of words MACHINE & LEARNING.
+$  DEEP LEARNING
+$ DATA ANALYSIS
